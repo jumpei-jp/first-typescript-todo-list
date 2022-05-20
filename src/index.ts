@@ -29,6 +29,7 @@ form?.addEventListener("submit", e => {
   input.value = "";
 })
 
+//ボタンを押した時に追加する要素
 function addListItem(task: Task) {
   const item = document.createElement("li");
   const label = document.createElement("label");
