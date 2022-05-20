@@ -1,4 +1,6 @@
-# New Project
+# TypeScript TODOLIST
+以下YouTubeを参考にTODOリストを作成
+https://www.youtube.com/watch?v=jBmrduvKl5w
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
